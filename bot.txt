@@ -1,0 +1,3 @@
+(ip)Entitysmp79.aternos.me
+(port)53278
+(name)noobda
